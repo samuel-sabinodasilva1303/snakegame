@@ -5,7 +5,7 @@ window.onload = function(){
     
     //capturar o quadro de pontuação
     let pontos = document.getElementById('pontos')
-    let pontoi = 0
+    let pontos = 0
     // define o contexto do elemento area para 2d
           let ctx = area.getContext("2d")
 
